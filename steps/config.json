@@ -1,0 +1,29 @@
+{
+  "//driver" : "driver initialization",
+  "url": "https://ultimateqa.com/automation",
+  "property_path" : "C://Users//sjayakumar//myworld//UltimateQA//steps//Properties.properties",
+
+  "//module1" : "Module 1 data",
+  "name" : "Sanjay",
+  "email" : "gjstrans@gmail.com",
+  "message" : "hello world!",
+
+  "//module4" : "Module 4 data",
+  "name4" : "sanjay",
+  "message4" : "Hello Universe!",
+
+  "//module5" : "Module 5 data",
+  "name5": "Madhu",
+
+  "//module6" : "Module 6 data",
+  "first_name6": "Madhu",
+  "last_name6": "Natarajan",
+  "email6": "madhumitha30502@gmail.com",
+  "password6": "12345678",
+
+  "//module7": "Module 7 data",
+  "name7": "Sanjay",
+  "email7": "sass@gmail.com"
+
+
+}
