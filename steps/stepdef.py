@@ -22,7 +22,7 @@ driver = webdriver.Chrome()
 driver.maximize_window()
 driver.implicitly_wait(10)
 with open(
-    "steps\config.json", "r"
+    "steps\\config.json", "r"
 ) as config:
     data = json.load(config)
 #
