@@ -1,9 +1,6 @@
-
 from behave import __main__ as behave_main
 
-FEATURE_FILE_PATH = (
-    "Feature\features.feature"
-)
+FEATURE_FILE_PATH = "Feature\\features.feature"
 
 if __name__ == "__main__":
     # Use '--no-capture' to stop suppress stderr and stdout
