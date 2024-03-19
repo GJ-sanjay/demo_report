@@ -2,7 +2,7 @@
 from behave import __main__ as behave_main
 
 FEATURE_FILE_PATH = (
-    "C://Users//sjayakumar//myworld//UltimateQA//Feature//features.feature"
+    "Feature\features.feature"
 )
 
 if __name__ == "__main__":
