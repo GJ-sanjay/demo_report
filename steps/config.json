@@ -1,7 +1,7 @@
 {
   "//driver" : "driver initialization",
   "url": "https://ultimateqa.com/automation",
-  "property_path" : "C://Users//sjayakumar//myworld//UltimateQA//steps//Properties.properties",
+  "property_path" : "steps\\Properties.properties",
 
   "//module1" : "Module 1 data",
   "name" : "Sanjay",
